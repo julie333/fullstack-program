@@ -1,0 +1,62 @@
+.navbar,
+.navbar-default,
+.navbar-nav {
+    border-bottom: 0px !important;
+}
+
+body {
+    width: 100%;
+    margin: auto;
+    height: auto;
+}
+
+#googlelogo {
+    width: 25%;
+    height: auto;
+    display: block;
+}
+
+#navigation {
+    background-color: white;
+    border-color: white;
+}
+
+#settingsmenu li {
+    margin: 0 0 20px 0;
+}
+
+#search {
+    padding: 15% 0px 25% 0px;
+}
+
+#txtbox {
+    width: 40%;
+    height: 40px;
+    border-style: outset;
+    border-radius: 1%;
+}
+
+.btn {
+    background-color: #EEEEEE !important;
+    border: 0px solid transparent !important;
+    font-weight: normal;
+    margin-right: 3px;
+}
+
+.btn-default:hover,
+.btn-default:focus,
+.btn-default:active {
+    background-color: #F5F5F5 !important;
+    border: 1px solid lightgray !important;
+    font-weight: bold;
+}
+
+a:link,
+a:hover,
+a:visited {
+    color: #3D3D3D;
+}
+
+a:active {
+    color: red;
+}
