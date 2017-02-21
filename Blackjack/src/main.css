@@ -1,0 +1,81 @@
+div {
+    color: blue;
+}
+
+.btnBox {
+    text-align: center;
+}
+
+.container {
+    width: 100%;
+    background-color: goldenrod;
+    display: flex;
+    position: relative;
+    margin: auto;
+    border: 10px dotted black;
+    vertical-align: middle;
+}
+
+.btn {
+    color: whitesmoke;
+    background-color: green;
+    border-color: whitesmoke;
+    margin: 15px;
+    width: 150px;
+    height: 35px;
+    font-family: 'Acme', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10%;
+}
+
+.indianred {
+    background-color: indianred !important;
+    border-color: indianred !important;
+    color: white !important;
+}
+
+.grid {
+    width: 80%;
+    position: relative;
+    background-color: black;
+    border: 10px dotted green;
+    vertical-align: middle;
+    text-align: center;
+    margin: auto;
+}
+
+.gridImgPlayer {
+    margin-left: -30px;
+    width: 15%;
+    transform: rotate(-15deg);
+    float: left;
+    transition: ease;
+}
+
+.gridImgDealer {
+    margin-right: -30px;
+    width: 15%;
+    transform: rotate(15deg);
+    float: right;
+    transition: ease;
+}
+
+.logoHolder {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.placeHolder {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+}
+
+.gameOver {
+    font-family: 'Acme', sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    color: whitesmoke;
+}
