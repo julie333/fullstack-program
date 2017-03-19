@@ -1,0 +1,107 @@
+div {
+    color: olivedrab;
+}
+
+.btnBox {
+    text-align: center;
+}
+
+.container {
+    width: 60%;
+    background-color: olivedrab;
+    /* background-image: url('./bg.jpg'); */
+    display: flex;
+    position: relative;
+    margin: auto;
+    border: 10px dotted black;
+    vertical-align: middle;
+}
+
+.btn {
+    color: black;
+    background-color: olivedrab;
+    border-color: whitesmoke;
+    margin: 15px;
+    width: 150px;
+    height: 35px;
+    font-family: 'Acme', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10%;
+}
+
+.btnImage {
+    width: 60px;
+    height: 60px;
+    margin-left: 40px;
+    margin-top: 10px;
+    margin-bottom: -20px;
+}
+
+.grid {
+    width: 90%;
+    margin: auto;
+    position: relative;
+    background-color: black;
+    border: 10px dotted olivedrab;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.gridTracksWrapper {
+    font-family: 'Acme', sans-serif;
+    font-size: 40px;
+    color: olivedrab;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.gridArtistWrapper {
+    font-family: 'Acme', sans-serif;
+    font-size: 40px;
+    color: olivedrab;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.gridTracks {
+    font-size: 20px;
+}
+
+
+.logoHolder {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.logo {
+    width: 600px;
+    height: 300px;
+}
+
+#boxSearch {
+    margin: 5px;
+    width: 60%;
+    height: 30px;
+    border: 5px solid olivedrab;
+    color: white;
+    background-color: black;
+    font-family: 'Acme', sans-serif;
+    font-size: 20px;
+    border-radius: 15%;
+}
+
+p {
+    font-family: 'Acme', sans-serif;
+    font-size: 20px;
+    color: whitesmoke;   
+}
+
+.title {
+    font-family: 'Acme', sans-serif;
+    font-size: 100px;
+     margin-top: 20px;
+    color: whitesmoke;
+    margin-bottom: 40px;
+    text-shadow: 3px 0 0 olivedrab;
+}
