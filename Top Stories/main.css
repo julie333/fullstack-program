@@ -1,0 +1,49 @@
+  .column {
+      border: 1px solid black;
+      background-color: lightslategray;
+      float: left;
+      vertical-align: middle;
+      font-family: 'Nunito';
+  }
+  
+  .title {
+      font-size: 20px;
+  }
+  
+  #container {
+      width: 90%;
+      background-image: url("title.jpg");
+      border: 5px dotted #222;
+      font-family: 'Acme', sans-serif;
+      color: #222;
+  }
+  
+  .titleBox {
+      width: 100%;
+      height: 450px;
+      margin-bottom: auto;
+      margin-top: auto;
+      text-align: center;
+      font-weight: bold;
+      font-size: 200px;
+      border: 5px dotted #222;
+  }
+  
+  .active {}
+  
+  .img {
+      width: 150px;
+      height: 250px;
+  }
+  
+  .columns {}
+  
+  .favTable {
+      border: 5px dotted whitesmoke;
+      font-size: 20px;
+  }
+  
+  .indianred {
+      background-color: indianred !important;
+      border-color: indianred !important;
+  }
